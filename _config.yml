@@ -1,0 +1,31 @@
+title: Antenistas en Madrid
+email: your-email@domain.com
+description: Antenistas Madrid, somos expertos en instalación y reparación de antenas. Estamos capacitados para resolver cualquier incidencia técnica.
+
+baseurl: "/"
+url: http://keralahost.in/rosacamacho
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Antenistas en Madrid
+
+date: 2019-03-27 01:07:49 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/rosacamacho/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: rosacamacho
